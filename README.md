@@ -31,3 +31,7 @@ Comparto documentación académica respetando las instrucciones de cada curso, l
 ---
 
 *Perfil creado para la asignatura Sistemas Colaborativos, UTP (2026).*
+
+
+## 💼 Perfil profesional
+- **LinkedIn:** [Ver mi perfil](https://www.linkedin.com/in/elvis-castillo-9b3b07435/)
