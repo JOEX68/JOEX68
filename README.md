@@ -4,7 +4,7 @@
 
 ## 👋 Sobre mí
 
-Hola, soy **Elvis Castillo**, estudiante de primer año de la Licenciatura en Ciberseguridad en la **Universidad Tecnológica de Panamá (UTP), FISC**. Este perfil será mi espacio para documentar mi progreso académico y compartir proyectos conforme los vaya completando.
+Hola, soy **Elvis Castillo**, estudiante de primer año de la Licenciatura en Ciberseguridad en la **Universidad Tecnológica de Panamá (UTP), FISC**. Este perfil documenta mi progreso académico y los proyectos que vaya completando.
 
 - 🎓 **Institución:** Universidad Tecnológica de Panamá (UTP)
 - 📚 **Asignatura:** Sistemas Colaborativos
@@ -19,10 +19,10 @@ Hola, soy **Elvis Castillo**, estudiante de primer año de la Licenciatura en Ci
 
 ## 📂 Portafolio académico
 
-Estoy comenzando a organizar mi portafolio. Agregaré aquí laboratorios y proyectos cuando los complete y pueda compartirlos.
+Estoy comenzando a organizar mi portafolio. Agregaré laboratorios y proyectos cuando los complete y pueda compartirlos.
 
-- **Laboratorios:** En preparación
-- **Proyectos:** Se añadirán conforme avance en la carrera
+- **Laboratorio de fundamentos de Java:** [Repositorio](https://github.com/JOEX68/utp-java-fundamentos) · En preparación
+- **Sitio del portafolio:** [GitHub Pages](https://joex68.github.io/utp-java-fundamentos/)
 
 ## 🤝 Principios de trabajo
 
